@@ -6,6 +6,7 @@ venv/
 
 # File Rahasia
 .streamlit/secrets.toml
+.streamlit/service_account.json
 
 # Python cache
 __pycache__/
